@@ -1,5 +1,5 @@
 # sql-schemas-Lspekterman-2
-# below are the assignment instructions
+## assignment instructions
 
 Ahoy! We're going to create a schema for school 🎓🏫. The schema will have
 students, faculty, classes, grades, departments and such. You'll have to
